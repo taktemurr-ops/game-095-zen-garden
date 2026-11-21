@@ -1,8 +1,8 @@
 import 'dart:math' as math;
 
-import '../core/arcade.dart';
-import '../core/level_plan.dart';
-import '../core/rng.dart';
+import 'package:studio_core/core/arcade.dart';
+import 'package:studio_core/core/level_plan.dart';
+import 'package:studio_core/core/rng.dart';
 
 /// Calm, tactile games on the shared arcade framework: stress-relief toys,
 /// pop-it boards, sand art, ASMR cleaning and a zen garden.
